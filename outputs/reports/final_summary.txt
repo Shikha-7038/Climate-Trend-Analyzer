@@ -1,0 +1,8 @@
+CLIMATE TREND ANALYZER - FINAL SUMMARY
+==================================================
+
+analysis_date: 2026-04-18 21:53:09
+data_range: 1900-01-31 00:00:00 to 2024-12-31 00:00:00
+total_records: 1500
+key_findings: {'temperature': {'trend': 'increasing', 'rate': 0.02337238414601915}}
+anomaly_stats: {'total_anomalies': 92}
